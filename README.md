@@ -1,4 +1,4 @@
-# <h3 align="center">Hi! 🙃 I'm Pelin, an English Language and Literature graduate who has just stepped into the world of programming!</h3>
+<h3 align="center">Hi! 🙃 I'm Pelin, an English Language and Literature graduate who has just stepped into the world of programming!</h3>
 
 
 - ## 🛠️ Tech Stack
